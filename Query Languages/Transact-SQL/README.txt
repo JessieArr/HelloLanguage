@@ -1,0 +1,1 @@
+Testing using SQL Server Management Studio from here: https://msdn.microsoft.com/en-us/library/mt238290.aspx
