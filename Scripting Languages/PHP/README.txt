@@ -1,0 +1,1 @@
+Tests run using http://stargento.com/ as a PHP Sandbox online. There are many others, though.
