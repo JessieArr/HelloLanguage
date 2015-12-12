@@ -1,0 +1,1 @@
+rustc -o HelloWorld.exe HelloWorld.rs
