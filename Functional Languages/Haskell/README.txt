@@ -1,1 +1,1 @@
-Downloaded Haskell v7.10.3 from https://www.haskell.org/platform/
+Downloaded Haskell Platform v7.10.3 from https://www.haskell.org/platform/
