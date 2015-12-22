@@ -1,0 +1,1 @@
+Downloaded Go 1.5.2 from here: https://golang.org/doc/install?download=go1.5.2.windows-amd64.msi
