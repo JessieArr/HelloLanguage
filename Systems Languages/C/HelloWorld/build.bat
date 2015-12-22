@@ -1,0 +1,1 @@
+gcc HelloWorld.c -o HelloWorld.exe
