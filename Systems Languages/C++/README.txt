@@ -1,0 +1,1 @@
+Just using VS2015's C++ templates since I already have it installed.
